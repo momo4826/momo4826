@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Tech Stack
  
-<img src="https://skillicons.dev/icons?i=c,cpp,go,ruby,java,html,css,js,jquery,py,&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,ruby,java,html,css,js,jquery,py,&perline=20" />
 
 <img src="https://skillicons.dev/icons?i=cmake,bootstrap,django,flask,d3,docker,kubernetes,maven,mysql,postgres,redis,mongodb,nginx,pytorch,tensorflow,qt&perline=10" />
 
