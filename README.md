@@ -21,6 +21,7 @@ and Scheme(Lisp)
 <img src="https://skillicons.dev/icons?i=cmake,bootstrap,jquery,django,flask,d3,docker,kubernetes,maven,mysql,postgres,redis,mongodb,nginx,pytorch,tensorflow,qt&perline=10" />
 
 <img src="https://skillicons.dev/icons?i=unity,bash,linux,raspberrypi,git,github,githubactions,gitlab,md,latex,aws&perline=10" />
+and SVN
 
 #### Machine Learning Libraries:
 
