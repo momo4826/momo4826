@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @momo4826
 - 👀 I’m interested in data science with machine learning and deep learning
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on computer vision applications
+- 🌱 I’m working as a Natural Language Processing Engineer now.
+- 💞️ I’m looking to collaborate on LLM applications
 - 📫 How to reach me: echoguo4826@gmail.com / furong_g@163.com
 
 <!---
